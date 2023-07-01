@@ -1,1 +1,0 @@
-This directory contains all Bharath Damodaran's files used for EduServ17. The files of the AP Tool are contained in the subdirectroy "AP Tool".  
